@@ -1,3 +1,13 @@
 body{
     background-color: lightcyan;
 }
+button{
+    color:black;
+    width: 33%;
+    height: 100px;
+    font-size: large;
+    background-color: salmon;
+}
+#gombok{
+    text-align: center;
+}
